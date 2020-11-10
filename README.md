@@ -37,4 +37,6 @@ python3 install.py
 ```
 curl http://hostname@example.com:9541
 ```
-Подробная[документация](https://github.com/fromfedorov/rebrain-devops-task1) (на самом деле нет)
+Подробная [документация](https://github.com/fromfedorov/rebrain-devops-task1) (на самом деле нет)
+
+Обратная связь: https://github.com/fromfedorov
